@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Supratim Nag</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate tech enthusiast from India</h3>
+
+- 🔭 I’m currently working on [CodeQuest (Online technical quiz platform)](very soon)
+
+- 👯 I’m looking to collaborate on **any Machine Learning model**
+
+- 🤝 I’m looking for help with **CodeQuest**
+
+- 💬 Ask me about **react,node,next**
 
 - 📫 How to reach me **snsupratim@gmailcom**
+
+- ⚡ Fun fact **I stay chill all the time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
