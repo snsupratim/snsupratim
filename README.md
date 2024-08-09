@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **any Machine Learning model**
 
-- 🤝 I’m looking for help with **CodeQuest**
+- 🤝 I’m looking for help with **IQuest**
 
 - 💬 Ask me about **react,node,next**
 
