@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Supratim Nag</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
 
-- 🔭 I’m currently working on [CodeQuest (Online technical quiz platform)](very soon)
+- 🔭 I’m currently working on [IQuest (Online technical quiz platform)](very soon)
 
 - 👯 I’m looking to collaborate on **any Machine Learning model**
 
