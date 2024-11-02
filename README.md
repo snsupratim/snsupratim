@@ -18,7 +18,8 @@ I'm eager to connect with like-minded individuals and contribute to projects in 
 ---
 
 📫 **How to Reach Me**  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/snsupratim/) or drop me a message at your-snsupratim@gmail.com
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/snsupratim/) or drop me a message at 
+ snsupratim@gmail.com
 
 ---
 
