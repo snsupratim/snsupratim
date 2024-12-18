@@ -1,4 +1,4 @@
-# Supratim Nag
+## Supratim Nag
 
 👋 Hi, I am **Supratim Nag**, a passionate **Full Stack Web Developer** and **B.Tech CSE-AIML** student at **MCKV College of Engineering**.  
 🌱 Currently, I am in my **3rd year** and focusing on **Java Spring Framework**, **Machine Learning (ML)**, **Deep Learning (DL)**, and **Natural Language Processing (NLP)**.
