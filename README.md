@@ -54,4 +54,4 @@ Feel free to check out my work in my GitHub repositories.(Not everything is publ
 - **GitHub:** https://github.com/snsupratim
 - **Email:** snsupratim@gmail.com
 
-[![GitHub Streak](https://streak-stats.demolab.com/?snsupratim=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=snsupratim)](https://git.io/streak-stats)
