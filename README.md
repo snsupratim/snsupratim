@@ -24,8 +24,8 @@ Some of my key projects include:
 $. **[snsupratim]** - My personal portfolio account.Check it out.Link is the repo!
 
 1. **[Relet]** - Real time chat application using WebSocket.
-2. **[DevLab]** - My personal online source code space.
-3. **[SnHub]** - My personal blogging platform .Checkout for my latest Blogs.
+2. **[WeBy]** - Anonymus Social Media Platform
+3. **[SnDev]** - My personal blogging platform .Checkout for my latest Blogs.
 4. **[Humed-X]** - Online Doctor booking application.
 5. **[ModelHub]** - My personal hub to store my all AI models.
 
