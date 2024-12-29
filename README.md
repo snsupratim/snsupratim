@@ -26,7 +26,7 @@ $. **[snsupratim]** - My personal portfolio account.Check it out.Link is the rep
 1. **[Relet]** - Real time chat application using WebSocket.
 2. **[Realli]** - A Dating application where you can pick with whom you wanna chat in realtime.
 3. **[SnDev]** - My personal blogging platform .Checkout for my latest Blogs.
-4. **[Humed-X]** - Online Doctor booking application.
+4. **[Innect]** - A online connection platform .
 5. **[ModelHub]** - My personal hub to store my all AI models.
 
 Feel free to check out my work in my GitHub repositories.(Not everything is public).
