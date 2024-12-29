@@ -24,7 +24,7 @@ Some of my key projects include:
 $. **[snsupratim]** - My personal portfolio account.Check it out.Link is the repo!
 
 1. **[Relet]** - Real time chat application using WebSocket.
-2. **[WeBy]** - Anonymus Social Media Platform
+2. **[Realli]** - A Dating application where you can pick with whom you wanna chat in realtime.
 3. **[SnDev]** - My personal blogging platform .Checkout for my latest Blogs.
 4. **[Humed-X]** - Online Doctor booking application.
 5. **[ModelHub]** - My personal hub to store my all AI models.
